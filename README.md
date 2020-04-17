@@ -1,5 +1,6 @@
 # arg_parser
 
-Simple yet useful arg parser for writing standard shell scripts.
+A collection of useful arg parser scripts
 
-This script serves as a template for parsing options and can be used to build more complex scripts.
+1. arg_parser.sh - uses getopts and supports short flags only
+2. generic_arg_parser.sh - handles both short and long flags
